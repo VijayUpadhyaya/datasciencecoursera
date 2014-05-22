@@ -5,4 +5,4 @@
 1. Else we can do this 
 2. or this for the numbered list. 
 
-:Smiley:  not :angry: and do :pray:
+:smiley:  not :angry: and do :pray:
